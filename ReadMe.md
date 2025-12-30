@@ -27,6 +27,12 @@ A full-stack web application for managing users with **Admin** and **User** role
 
 ---
 
+Front-end Url: https://user-management-system-blush-iota.vercel.app/
+
+Backend Url: https://usermanagementsystem-1p07.onrender.com
+
+MongoDb Url: mongodb+srv://adityasharma5506user:aditya%40123@usermanagementsystem.boqfscq.mongodb.net/
+
 ## Installation
 
 1. Clone the repository:
