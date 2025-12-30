@@ -31,11 +31,12 @@ A full-stack web application for managing users with **Admin** and **User** role
 
 1. Clone the repository:
 
-```bash
+bash
 git clone https://github.com/Userunknown84/UserManagementSystem.git
 cd user-management-system
 
-Install dependencies for both frontend and backend:
+2. Install dependencies for both frontend and backend:
+
 # Backend
 cd backend
 npm install
@@ -44,8 +45,7 @@ npm install
 cd ../frontend
 npm install
 
-
-Start the servers:
+3. Start the servers:
 # Backend
 cd backend
 npm run dev
